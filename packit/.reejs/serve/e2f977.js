@@ -1,0 +1,2 @@
+import React from "https://esm.sh/preact@10.13.2/compat";
+export default function(){return React.createElement("div",{className:"bg-yellow-200 min:h-screen"},React.createElement("div",{className:"flex flex-col justify-center h-full"},React.createElement("h1",{className:"text-yellow-600 text-4xl text-center"},"Welcome Chawal!"),React.createElement("p",{className:"text-yellow-700 text-center"},"Yes you - chawal. This website is for you. Enjoy 🍚")))}
